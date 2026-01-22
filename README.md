@@ -20,7 +20,7 @@ npm install rbac-express-auth
 ```js
 
 import express from "express";
-import authorize from "rbac-express-auth";
+import { authorize } from "rbac-express-auth";
 
 const app = express();
 
