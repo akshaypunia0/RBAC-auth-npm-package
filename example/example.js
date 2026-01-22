@@ -1,5 +1,5 @@
 import express from 'express'
-import { authorize } from '../src/authorize.js'
+import { authorize } from 'rbac-express-auth'
 
 const app = express()
 

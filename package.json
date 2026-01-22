@@ -1,6 +1,6 @@
 {
   "name": "rbac-express-auth",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Lightweight RBAC middleware for Express.js",
   "main": "src/index.js",
   "keywords": [
@@ -8,7 +8,6 @@
     "express",
     "authorization",
     "role-based-access-control",
-    "express",
     "auth"
   ],
   "peerDependencies": {
