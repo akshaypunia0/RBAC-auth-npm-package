@@ -2,16 +2,16 @@
 
 Simple and lightweight Role-Based Access Control (RBAC) middleware for Express.js applications.
 
-## Why rbac-express?
+## Why rbac-express-auth?
 
 Most Express applications require role-based authorization, but implementing it repeatedly across projects leads to duplicated and error-prone code.
-`rbac-express` solves this by providing a clean, reusable authorization middleware that works seamlessly with JWT-based authentication systems.
+`rbac-express-auth` solves this by providing a clean, reusable authorization middleware that works seamlessly with JWT-based authentication systems.
 
 ## Installation
 
 ```bash
 
-npm install rbac-express
+npm install rbac-express-auth
 
 ```
 
@@ -20,7 +20,7 @@ npm install rbac-express
 ```js
 
 import express from "express";
-import authorize from "rbac-express";
+import authorize from "rbac-express-auth";
 
 const app = express();
 
