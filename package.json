@@ -1,6 +1,6 @@
 {
   "name": "rbac-express-auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Lightweight RBAC middleware for Express.js",
   "main": "src/index.js",
   "keywords": [
@@ -15,5 +15,13 @@
   },
   "author": "Akshay Chaudhary",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshaypunia0/RBAC-auth-npm-package"
+  },
+  "homepage": "https://github.com/akshaypunia0/RBAC-auth-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/akshaypunia0/RBAC-auth-npm-package/issues"
+  }
 }

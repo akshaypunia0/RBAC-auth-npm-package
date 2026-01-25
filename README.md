@@ -79,3 +79,20 @@ app.get("/vendor", authorize(["VENDOR"]), handler);
 - Always run authentication middleware before `authorize()`
 - Use constants or enums for role names
 - Avoid hardcoding roles inside controllers
+
+
+## Links
+
+Github Repository
+
+```
+https://github.com/akshaypunia0/RBAC-auth-npm-package
+
+```
+
+npm Package
+
+```
+https://www.npmjs.com/package/rbac-express-auth
+
+```
